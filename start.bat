@@ -1,0 +1,1 @@
+"C:\Users\vtschuk\.jdks\openjdk-17\bin\java" -jar "C:\Business\Unternehmen\Projekte\HDELTP\hdeltp-editor-desktop\target\hdeltp-editor-desktop-1.0-SNAPSHOT.jar"
